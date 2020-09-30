@@ -15,11 +15,13 @@
   },
   "dependencies": {
     "gatsby": "^2.24.66",
+    "gatsby-source-filesystem": "^2.3.31",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "prettier": "2.1.2"
+    "prettier": "2.1.2",
+    "xxxxx": "^1.0.3"
   },
   "repository": {
     "type": "git",
